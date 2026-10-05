@@ -1,0 +1,26 @@
+# Dokumentacja źródłowa klienta
+00_Source_Docs/
+
+# Sekrety i certyfikaty
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+credentials.*
+secrets.*
+
+# Backupy / archiwa
+*.zip
+*.bak
+*.backup
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Windows
+Thumbs.db
+Desktop.ini
